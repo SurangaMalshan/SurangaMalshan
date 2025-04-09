@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Suranga and from Sri lanka</h2>
+<h2 align="left">Hi 👋!My name is Suranga and I am from Sri Lanka.</h2>
 
 ###
 
