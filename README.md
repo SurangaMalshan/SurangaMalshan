@@ -1,20 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;ICT+Student;AI+Enthusiast)](https://git.io/typing-svg)
 ###
-theme=tokyonight
+
 ## 💻 Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,python,cs" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?SurangaMalshan&show_icons=true&theme=tokyonight" height="180"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?SurangaMalshan&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
@@ -30,5 +20,6 @@ theme=tokyonight
 ---
 
 ![Snake animation](https://github.com/SurangaMalshan/SurangaMalshan/blob/output/github-contribution-grid-snake-dark.svg)
+![](https://komarev.com/ghpvc/?username=SurangaMalshan&color=blueviolet)
 
 ###
