@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;ICT+Student;AI+Enthusiast)](https://git.io/typing-svg)
 ###
-
+theme=tokyonight
 ## 💻 Tech Stack
 
 <p>
@@ -12,9 +12,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?SurangaMalshan&show_icons=true&theme=tokyonight" height="180"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?SurangaMalshan&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
