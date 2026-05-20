@@ -29,6 +29,6 @@
 
 ---
 
-
+![Snake animation](https://github.com/SurangaMalshan/SurangaMalshan/blob/output/github-contribution-grid-snake-dark.svg)
 
 ###
